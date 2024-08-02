@@ -1,7 +1,15 @@
 {
-    "pessoa": {
-        "nome": "Eduardo",
-        "data_nascimento": "324234",
-        "altura": "234"
-    }
+    "nome": "Eduardo",
+    "data_nascimento": "200921",
+    "altura": "1.8",
+    "dependente": [
+        {
+            "nome": "jessica",
+            "datanasc": "123123"
+        },
+        {
+            "nome": "maria",
+            "datanasc": "123123"
+        }
+    ]
 }
